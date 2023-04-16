@@ -31,3 +31,12 @@ kubectl logs skpredict-api
 0     0  6.575  296.0     15.3  396.9   4.98
 [2023-04-16 03:29:18,612] INFO in app: Prediction result: [20.35373177134412]
 127.0.0.1 - - [16/Apr/2023 03:29:18] "POST /predict HTTP/1.1" 200 -
+
+- Output from kubernetes:
+$ sh run_kubernetes.sh
+NAME            READY   STATUS    RESTARTS   AGE
+skpredict-api   1/1     Running   0          4m52s
+Forwarding from 127.0.0.1:8080 -> 80
+Forwarding from [::1]:8080 -> 80
+Handling connection for 8080
+
