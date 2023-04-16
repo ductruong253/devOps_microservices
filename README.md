@@ -1,4 +1,4 @@
-[![mithie](https://circleci.com/gh/mithie/udacity-cloud-devops-engineer-project-4.svg?style=svg)](https://circleci.com/gh/mithie/udacity-cloud-devops-engineer-project-4)
+[![ductruong253](https://circleci.com/gh/ductruong253/devOps_microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/ductruong253/devOps_microservices)
 
 ## Project Overview
 
